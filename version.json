@@ -1,0 +1,6 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0",
+  "apkUrl": "https://raw.githubusercontent.com/LtxdNox/rekapan-kerja/main/rekap-ipam.apk",
+  "changelog": "Perbaikan hitung pompa PG2, aturan presure header baru, info versi, cek update otomatis."
+}
