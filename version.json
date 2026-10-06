@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.0.3",
+  "versionCode": 5,
+  "versionName": "1.0.4",
   "apkUrl": "https://raw.githubusercontent.com/LtxdNox/Rekapan-Kerja/main/rekap-ipam.apk",
-  "changelog": "Uji coba jalur update otomatis OTA."
+  "changelog": "Pemeriksaan update selalu ambil data terbaru (tanpa cache)."
 }
