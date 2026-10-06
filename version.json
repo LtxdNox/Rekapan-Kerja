@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1",
+  "versionCode": 3,
+  "versionName": "1.0.2",
   "apkUrl": "https://raw.githubusercontent.com/LtxdNox/Rekapan-Kerja/main/rekap-ipam.apk",
-  "changelog": "Pompa PG2 yang frekuensi & ampere-nya 0 kini tampil 0 (tidak kosong lagi)."
+  "changelog": "Setiap aplikasi dibuka kini menampilkan status pemeriksaan update."
 }
