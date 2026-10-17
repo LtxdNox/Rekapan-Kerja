@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.0.5",
+  "versionCode": 17,
+  "versionName": "2.0.7",
   "apkUrl": "https://raw.githubusercontent.com/LtxdNox/Rekapan-Kerja/main/rekap-ipam.apk",
-  "changelog": "Uji coba update otomatis dari v1.0.4."
+  "changelog": "Versi Baru V2.0.7\n\n* Perbaikan Bug *\n- Perbaikan Logic Apps\n- Menghapus Tombol Menu Yang Tidak Perlu\n- Sesi Login Lebih Lama\n\n* Penambahan Fitur Baru *\n- Fitur Pengingat Absensi Kerja. Fitur ini Agar tidak Terlewat / Lupa Tidak Absen Datang Maupun Absensi Pulang, Aplikasi Personal Asisten akan Terbuka secara Otomatis jika mendekati Jam Kerja dan Jika Berada Di Area Lokasi Kerja Sesuai Aturan Yang Anda Atur Sendiri Nanti."
 }
