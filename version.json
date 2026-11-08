@@ -1,6 +1,6 @@
 {
-  "versionCode": 18,
-  "versionName": "2.0.8",
+  "versionCode": 20,
+  "versionName": "2.0.10",
   "apkUrl": "https://raw.githubusercontent.com/LtxdNox/Rekapan-Kerja/main/rekap-ipam.apk",
-  "changelog": "Versi Baru V2.0.8\n\n* Perbaikan Bug *\n- Perbaikan Logic Apps\n- Menghapus Tombol Menu Yang Tidak Perlu\n- Sesi Login Lebih Lama\n\n* Penambahan Fitur Baru *\n- Fitur Pengingat Absensi Kerja. Fitur ini Agar tidak Terlewat / Lupa Tidak Absen Datang Maupun Absensi Pulang, Aplikasi Personal Asisten akan Terbuka secara Otomatis jika mendekati Jam Kerja dan Jika Berada Di Area Lokasi Kerja Sesuai Aturan Yang Anda Atur Sendiri Nanti."
+  "changelog": "Versi Baru V2.0.10\n\n* Perbaikan Bug *\n- Perbaikan bug algoritma pada Pompa Vertikal di bagian tekanan Header yang tertulis 0 jika salah satu pompa mati / off\n- Perbaikan menu atur manual agar terlihat lebih simpel tanpa mengganggu preview parameter pompa dan operasional pompa pada PG3 dan PG2"
 }
